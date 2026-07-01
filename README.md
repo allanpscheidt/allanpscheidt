@@ -54,7 +54,6 @@ Member of **Google's Gemini Early Access Program**, producing weekly content on 
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white)
 
-**AI:** Gemini · Claude · GPT-4 · NotebookLM · Google AI Studio
 
 ---
 
