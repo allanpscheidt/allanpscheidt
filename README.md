@@ -27,7 +27,7 @@ Membro do **Programa de Acesso Antecipado do Gemini (Google)**, produzo conteúd
 - 📗 Autor de *Inteligência Artificial na Sala de Aula* — best-seller publicado pela Matrix Editora, distribuído em 45+ países
 - 🎓 Professor universitário com foco em inovação pedagógica
 - ✍️ Newsletter no Substack · Carrosséis no Instagram · Artigos no LinkedIn
-- 🏢 Fundador da [Setor 101](https://setor101.com.br) — soluções de IA para empresas
+- 🏢 Fundador da [Setor 101](https://setor101.com.br) — soluções de IA para empresas educacionais
 
 ---
 
@@ -42,7 +42,7 @@ Member of **Google's Gemini Early Access Program**, producing weekly content on 
 - 📗 Author of *AI in the Classroom* — best-seller published by Matrix Editora, distributed in 45+ countries
 - 🎓 University professor focused on pedagogical innovation
 - ✍️ Substack newsletter · Instagram carousels · LinkedIn articles
-- 🏢 Founder of [Setor 101](https://setor101.com.br) — AI solutions for business
+- 🏢 Founder of [Setor 101](https://setor101.com.br) — AI solutions for educational companies
 
 ---
 
